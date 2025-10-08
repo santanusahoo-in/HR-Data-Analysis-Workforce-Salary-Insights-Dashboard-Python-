@@ -53,7 +53,7 @@ The dataset contains employee details such as:
 ## 📈 Key Visuals & Insights
 
 ### 1️⃣ Total Salaries by US State
-![Total Salaries by US State](Screenshot%202025-10-08%20215844.png)
+![Total Salaries by US State](Image/Screenshot%202025-10-08%20215844.png)
 
 - California and Minnesota dominate total payroll costs.  
 - Total salaries across 8 states exceed **$10.6M** across 284 employees.  
