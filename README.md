@@ -50,6 +50,21 @@ The dataset contains employee details such as:
 
 ---
 
+**📁 File:** [`hr_data_analysis.ipynb`](hr_data_analysis.ipynb)  
+**🧮 Tools & Libraries Used:** Python:
+```Py
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+datetime
+os
+```
+**👨‍💻 Developer:** [Santanu Sahoo]
+
+---
+
 ## 📈 Key Visuals & Insights
 
 ### 1️⃣ Total Salaries by US State
@@ -103,12 +118,3 @@ The dataset contains employee details such as:
 
 ---
 
-## 🧮 Tools & Libraries Used
-```py
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-datetime
-os
