@@ -1,0 +1,285 @@
+businessentityid,employeename,jobtitle,gender,maritalstatus,hiredate,birthdate,departmentname,departmentgroup,shiftname,payfrequency,lastratechangedate,city,stateprovince,countryregion,hourlyrate,annualsalary,payperperiod
+221,Chris Norred,Control Specialist,M,M,3/6/2009,5/26/1987,Document Control,Quality Assurance,Evening,2,00:00.0,Issaquah,Minnesota,United States,16.8269,34999.95,1346.15
+218,Tengiz Kharatishvili,Control Specialist,M,S,12/16/2008,4/28/1990,Document Control,Quality Assurance,Night,2,00:00.0,Issaquah,Minnesota,United States,16.8269,34999.95,1346.15
+220,Karen Berge,Document Control Assistant,F,M,2/9/2009,12/25/1975,Document Control,Quality Assurance,Day,2,00:00.0,Index,Minnesota,United States,10.25,21320.0,820.0
+219,Sean Chai,Document Control Assistant,M,S,1/22/2009,3/12/1987,Document Control,Quality Assurance,Day,2,00:00.0,Issaquah,California,United States,10.25,21320.0,820.0
+217,Zainal Arifin,Document Control Manager,M,M,1/4/2009,1/30/1976,Document Control,Quality Assurance,Day,2,00:00.0,Issaquah,California,United States,17.7885,37000.08,1423.08
+5,Gail Erickson,Design Engineer,F,M,1/6/2008,9/27/1952,Engineering,Research and Development,Day,2,00:00.0,Bellevue,Oregon,United States,32.6923,67999.98,2615.38
+6,Jossef Goldberg,Design Engineer,M,M,1/24/2008,3/11/1959,Engineering,Research and Development,Day,2,00:00.0,Renton,Michigan,United States,32.6923,67999.98,2615.38
+15,Sharon Salavaria,Design Engineer,F,M,1/18/2011,5/2/1961,Engineering,Research and Development,Day,2,00:00.0,Renton,Michigan,United States,32.6923,67999.98,2615.38
+3,Roberto Tamburello,Engineering Manager,M,M,11/11/2007,11/12/1974,Engineering,Research and Development,Day,2,00:00.0,Redmond,Massachusetts,United States,43.2692,89999.94,3461.54
+14,Michael Sullivan,Senior Design Engineer,M,S,12/30/2010,6/16/1979,Engineering,Research and Development,Day,2,00:00.0,Renton,Oregon,United States,36.0577,75000.02,2884.62
+2,Terri Duffy,Vice President of Engineering,F,S,1/31/2008,8/1/1971,Engineering,Research and Development,Day,2,00:00.0,Renton,Utah,United States,63.4615,131999.92,5076.92
+1,Ken Sánchez,Chief Executive Officer,M,S,1/14/2009,1/29/1969,Executive,Executive General and Administration,Day,2,00:00.0,Newport Hills,California,United States,125.5,261040.0,10040.0
+234,Laura Norman,Chief Financial Officer,F,M,1/31/2009,1/6/1976,Executive,Executive General and Administration,Day,2,00:00.0,Renton,Minnesota,United States,60.0962,125000.1,4807.7
+233,Magnus Hedlund,Facilities Administrative Assistant,M,M,12/21/2009,8/27/1971,Facilities and Maintenance,Executive General and Administration,Day,2,00:00.0,Renton,Oregon,United States,9.75,20280.0,780.0
+227,Gary Altman,Facilities Manager,M,M,12/2/2009,2/18/1971,Facilities and Maintenance,Executive General and Administration,Day,2,00:00.0,Renton,Massachusetts,United States,24.0385,50000.08,1923.08
+230,Stuart Macrae,Janitor,M,M,3/5/2010,12/17/1971,Facilities and Maintenance,Executive General and Administration,Evening,1,00:00.0,Renton,Michigan,United States,9.25,19240.0,1603.33
+232,Pat Coleman,Janitor,M,S,1/27/2010,12/3/1970,Facilities and Maintenance,Executive General and Administration,Evening,1,00:00.0,Gold Bar,Massachusetts,United States,9.25,19240.0,1603.33
+231,Jo Berry,Janitor,F,M,3/7/2010,4/24/1954,Facilities and Maintenance,Executive General and Administration,Night,1,00:00.0,Index,Washington,United States,9.25,19240.0,1603.33
+229,Lori Penor,Janitor,F,M,2/16/2010,7/31/1970,Facilities and Maintenance,Executive General and Administration,Night,1,00:00.0,Index,Michigan,United States,9.25,19240.0,1603.33
+228,Christian Kleinerman,Maintenance Supervisor,M,M,12/14/2008,1/18/1976,Facilities and Maintenance,Executive General and Administration,Day,2,00:00.0,Gold Bar,Washington,United States,20.4327,42500.02,1634.62
+245,Barbara Moreland,Accountant,F,M,2/18/2009,1/4/1976,Finance,Executive General and Administration,Day,2,00:00.0,Seattle,Washington,United States,26.4423,54999.98,2115.38
+248,Mike Seamans,Accountant,M,S,3/8/2009,7/1/1979,Finance,Executive General and Administration,Day,2,00:00.0,Index,Michigan,United States,26.4423,54999.98,2115.38
+241,David Liu,Accounts Manager,M,M,1/30/2009,7/8/1983,Finance,Executive General and Administration,Day,2,00:00.0,Gold Bar,Michigan,United States,34.7356,72250.05,2778.85
+247,Janet Sheperdigian,Accounts Payable Specialist,F,M,3/1/2009,3/9/1979,Finance,Executive General and Administration,Day,2,00:00.0,Sammamish,Utah,United States,19.0,39520.0,1520.0
+246,Dragan Tomic,Accounts Payable Specialist,M,M,2/11/2009,2/14/1977,Finance,Executive General and Administration,Day,2,00:00.0,Gold Bar,Utah,United States,19.0,39520.0,1520.0
+243,Candy Spoon,Accounts Receivable Specialist,F,S,1/6/2009,2/23/1976,Finance,Executive General and Administration,Day,2,00:00.0,Index,Tennessee,United States,19.0,39520.0,1520.0
+244,Bryan Walton,Accounts Receivable Specialist,M,S,1/24/2009,9/20/1984,Finance,Executive General and Administration,Day,2,00:00.0,Newport Hills,Minnesota,United States,19.0,39520.0,1520.0
+242,Deborah Poe,Accounts Receivable Specialist,F,M,12/18/2008,3/6/1976,Finance,Executive General and Administration,Day,2,00:00.0,Everett,Washington,United States,19.0,39520.0,1520.0
+262,David Barber,Assistant to the Chief Financial Officer,M,S,1/12/2009,6/21/1964,Finance,Executive General and Administration,Day,2,00:00.0,Newport Hills,Minnesota,United States,13.4615,27999.92,1076.92
+249,Wendy Kahn,Finance Manager,F,S,12/25/2008,10/11/1984,Finance,Executive General and Administration,Day,2,00:00.0,Sammamish,California,United States,43.2692,89999.94,3461.54
+239,Mindy Martin,Benefits Specialist,F,M,12/25/2008,11/20/1984,Human Resources,Executive General and Administration,Day,2,00:00.0,Newport Hills,Michigan,United States,16.5865,34499.92,1326.92
+237,Hao Chen,Human Resources Administrative Assistant,M,S,2/6/2009,4/17/1977,Human Resources,Executive General and Administration,Day,2,00:00.0,Issaquah,California,United States,13.9423,28999.98,1115.38
+236,Grant Culbertson,Human Resources Administrative Assistant,M,S,2/25/2009,4/16/1976,Human Resources,Executive General and Administration,Day,2,00:00.0,Gold Bar,Massachusetts,United States,13.9423,28999.98,1115.38
+235,Paula Barreto de Mattos,Human Resources Manager,F,M,12/6/2008,2/11/1976,Human Resources,Executive General and Administration,Day,2,00:00.0,Bellevue,Utah,United States,27.1394,56449.95,2171.15
+238,Vidur Luthra,Recruiter,M,S,1/1/2009,8/1/1984,Human Resources,Executive General and Administration,Day,2,00:00.0,Newport Hills,Michigan,United States,18.2692,37999.94,1461.54
+240,Willis Johnson,Recruiter,M,S,12/13/2008,7/18/1978,Human Resources,Executive General and Administration,Day,2,00:00.0,Everett,Michigan,United States,18.2692,37999.94,1461.54
+267,Karen Berg,Application Specialist,F,S,2/16/2009,5/19/1978,Information Services,Executive General and Administration,Day,2,00:00.0,Issaquah,Washington,United States,27.4038,56999.9,2192.3
+272,Janaina Bueno,Application Specialist,F,M,12/23/2008,1/30/1985,Information Services,Executive General and Administration,Day,2,00:00.0,Issaquah,Minnesota,United States,27.4038,56999.9,2192.3
+268,Ramesh Meyyappan,Application Specialist,M,S,2/3/2009,3/13/1988,Information Services,Executive General and Administration,Day,2,00:00.0,Issaquah,Tennessee,United States,27.4038,56999.9,2192.3
+269,Dan Bacon,Application Specialist,M,M,1/11/2009,5/26/1987,Information Services,Executive General and Administration,Day,2,00:00.0,Issaquah,Michigan,United States,27.4038,56999.9,2192.3
+270,François Ajenstat,Database Administrator,M,S,1/17/2009,5/17/1975,Information Services,Executive General and Administration,Day,2,00:00.0,Issaquah,Tennessee,United States,38.4615,79999.92,3076.92
+271,Dan Wilson,Database Administrator,M,M,1/22/2009,1/6/1976,Information Services,Executive General and Administration,Day,2,00:00.0,Bellevue,Washington,United States,38.4615,79999.92,3076.92
+263,Jean Trenary,Information Services Manager,F,S,12/11/2008,12/13/1975,Information Services,Executive General and Administration,Day,2,00:00.0,Redmond,Massachusetts,United States,50.4808,105000.06,4038.46
+265,Ashvini Sharma,Network Administrator,M,S,12/4/2008,3/27/1977,Information Services,Executive General and Administration,Evening,2,00:00.0,Issaquah,Minnesota,United States,32.4519,67499.95,2596.15
+266,Peter Connelly,Network Administrator,M,S,2/23/2009,5/28/1980,Information Services,Executive General and Administration,Day,2,00:00.0,Issaquah,Utah,United States,32.4519,67499.95,2596.15
+264,Stephanie Conroy,Network Manager,F,S,2/4/2009,3/25/1984,Information Services,Executive General and Administration,Day,2,00:00.0,Issaquah,Massachusetts,United States,39.6635,82500.08,3173.08
+20,Wanida Benshoof,Marketing Assistant,F,M,1/7/2011,3/17/1975,Marketing,Sales and Marketing,Day,2,00:00.0,Sammamish,Tennessee,United States,13.4615,27999.92,1076.92
+19,Mary Dempsey,Marketing Assistant,F,S,2/14/2011,1/29/1978,Marketing,Sales and Marketing,Day,2,00:00.0,Bellevue,Michigan,United States,13.4615,27999.92,1076.92
+17,Kevin Brown,Marketing Assistant,M,S,1/26/2007,5/3/1987,Marketing,Sales and Marketing,Day,2,00:00.0,Everett,California,United States,13.4615,27999.92,1076.92
+16,David Bradley,Marketing Manager,M,S,12/20/2007,3/19/1975,Marketing,Sales and Marketing,Day,2,00:00.0,Redmond,Massachusetts,United States,37.5,78000.0,3000.0
+23,Mary Gibson,Marketing Specialist,F,M,1/12/2009,9/13/1962,Marketing,Sales and Marketing,Day,2,00:00.0,Everett,Tennessee,United States,14.4231,30000.05,1153.85
+24,Jill Williams,Marketing Specialist,F,M,1/18/2009,6/18/1979,Marketing,Sales and Marketing,Day,2,00:00.0,Everett,Tennessee,United States,14.4231,30000.05,1153.85
+22,Sariya Harnpadoungsataya,Marketing Specialist,M,S,12/12/2008,5/21/1987,Marketing,Sales and Marketing,Day,2,00:00.0,Everett,Utah,United States,14.4231,30000.05,1153.85
+21,Terry Eminhizer,Marketing Specialist,M,M,3/2/2009,2/4/1986,Marketing,Sales and Marketing,Day,2,00:00.0,Bellevue,Tennessee,United States,14.4231,30000.05,1153.85
+18,John Wood,Marketing Specialist,M,S,2/7/2011,3/6/1978,Marketing,Sales and Marketing,Day,2,00:00.0,Redmond,Michigan,United States,14.4231,30000.05,1153.85
+47,Andrew Hill,Production Supervisor - WC10,M,S,2/22/2009,9/6/1988,Production,Manufacturing,Day,2,00:00.0,Everett,Washington,United States,25.0,52000.0,2000.0
+102,Zheng Mu,Production Supervisor - WC10,M,S,12/3/2008,10/26/1983,Production,Manufacturing,Evening,2,00:00.0,Seattle,Michigan,United States,25.0,52000.0,2000.0
+87,Cristian Petculescu,Production Supervisor - WC10,M,M,12/22/2008,4/11/1984,Production,Manufacturing,Night,2,00:00.0,Seattle,Minnesota,United States,25.0,52000.0,2000.0
+134,Eric Gubbels,Production Supervisor - WC20,M,M,1/14/2009,1/19/1985,Production,Manufacturing,Day,2,00:00.0,Edmonds,Oregon,United States,25.0,52000.0,2000.0
+180,Katie McAskill-White,Production Supervisor - WC20,F,S,2/20/2009,11/18/1984,Production,Manufacturing,Night,2,00:00.0,Seattle,Washington,United States,25.0,52000.0,2000.0
+152,Yuhong Li,Production Supervisor - WC20,M,M,2/1/2009,4/6/1977,Production,Manufacturing,Evening,2,00:00.0,Seattle,Tennessee,United States,25.0,52000.0,2000.0
+145,Cynthia Randall,Production Supervisor - WC30,F,S,1/27/2009,8/18/1981,Production,Manufacturing,Evening,2,00:00.0,Kenmore,California,United States,25.0,52000.0,2000.0
+166,Jack Richins,Production Supervisor - WC30,M,S,2/21/2009,6/22/1983,Production,Manufacturing,Day,2,00:00.0,Monroe,Massachusetts,United States,25.0,52000.0,2000.0
+71,Michael Ray,Production Supervisor - WC30,M,S,2/15/2009,1/29/1989,Production,Manufacturing,Night,2,00:00.0,Seattle,Michigan,United States,25.0,52000.0,2000.0
+78,Reuben D'sa,Production Supervisor - WC40,M,M,12/15/2008,8/27/1987,Production,Manufacturing,Evening,2,00:00.0,Seattle,Utah,United States,25.0,52000.0,2000.0
+192,Brenda Diaz,Production Supervisor - WC40,F,M,3/5/2009,2/28/1983,Production,Manufacturing,Day,2,00:00.0,Seattle,Oregon,United States,25.0,52000.0,2000.0
+127,David Hamilton,Production Supervisor - WC40,M,S,1/3/2009,7/2/1983,Production,Manufacturing,Night,2,00:00.0,Kenmore,Oregon,United States,25.0,52000.0,2000.0
+160,Jeff Hay,Production Supervisor - WC45,M,M,1/21/2009,1/15/1977,Production,Manufacturing,Day,2,00:00.0,Everett,Minnesota,United States,25.0,52000.0,2000.0
+205,Lori Kane,Production Supervisor - WC45,F,S,2/26/2009,7/18/1980,Production,Manufacturing,Night,2,00:00.0,Redmond,Michigan,United States,25.0,52000.0,2000.0
+186,Shane Kim,Production Supervisor - WC45,M,S,2/8/2009,5/24/1990,Production,Manufacturing,Evening,2,00:00.0,Bellevue,Massachusetts,United States,25.0,52000.0,2000.0
+108,Jinghao Liu,Production Supervisor - WC50,M,S,12/8/2008,2/5/1989,Production,Manufacturing,Day,2,00:00.0,Carnation,Minnesota,United States,25.0,52000.0,2000.0
+93,Kok-Ho Loh,Production Supervisor - WC50,M,S,12/27/2008,4/28/1980,Production,Manufacturing,Evening,2,00:00.0,Bellevue,Minnesota,United States,25.0,52000.0,2000.0
+55,Taylor Maxwell,Production Supervisor - WC50,M,M,2/8/2008,4/1/1956,Production,Manufacturing,Night,2,00:00.0,Edmonds,Tennessee,United States,25.0,52000.0,2000.0
+62,John Campbell,Production Supervisor - WC60,M,M,3/17/2008,8/7/1956,Production,Manufacturing,Evening,2,00:00.0,Seattle,Oregon,United States,25.0,52000.0,2000.0
+27,Jo Brown,Production Supervisor - WC60,F,S,2/27/2008,10/8/1956,Production,Manufacturing,Day,2,00:00.0,Duvall,Tennessee,United States,25.0,52000.0,2000.0
+40,JoLynn Dobney,Production Supervisor - WC60,F,S,12/26/2007,1/16/1956,Production,Manufacturing,Night,2,00:00.0,Seattle,California,United States,25.0,52000.0,2000.0
+105,Kevin Homer,Production Technician - WC10,M,S,12/25/2009,9/19/1986,Production,Manufacturing,Evening,1,00:00.0,Bellevue,Utah,United States,13.45,27976.0,2331.33
+51,Jeffrey Ford,Production Technician - WC10,M,S,2/20/2008,7/11/1956,Production,Manufacturing,Day,1,00:00.0,Monroe,Utah,United States,13.45,27976.0,2331.33
+52,Doris Hartwig,Production Technician - WC10,F,M,3/10/2008,4/4/1956,Production,Manufacturing,Day,1,00:00.0,Kenmore,Oregon,United States,13.45,27976.0,2331.33
+90,Danielle Tiedt,Production Technician - WC10,F,S,2/20/2010,9/7/1986,Production,Manufacturing,Night,1,00:00.0,Kenmore,Michigan,United States,13.45,27976.0,2331.33
+92,Tom Vande Velde,Production Technician - WC10,M,M,3/10/2010,10/1/1986,Production,Manufacturing,Night,1,00:00.0,Everett,California,United States,13.45,27976.0,2331.33
+88,Betsy Stadick,Production Technician - WC10,F,S,12/18/2009,12/17/1966,Production,Manufacturing,Night,1,00:00.0,Bothell,Minnesota,United States,13.45,27976.0,2331.33
+53,Diane Glimp,Production Technician - WC10,F,M,3/28/2008,3/29/1956,Production,Manufacturing,Day,1,00:00.0,Redmond,California,United States,13.45,27976.0,2331.33
+91,Kimberly Zimmerman,Production Technician - WC10,F,S,1/12/2010,9/13/1986,Production,Manufacturing,Night,1,00:00.0,Seattle,Tennessee,United States,13.45,27976.0,2331.33
+50,Sidney Higa,Production Technician - WC10,M,M,2/2/2008,8/30/1956,Production,Manufacturing,Day,1,00:00.0,Edmonds,Utah,United States,13.45,27976.0,2331.33
+106,John Kane,Production Technician - WC10,M,S,2/27/2010,9/28/1986,Production,Manufacturing,Evening,1,00:00.0,Duvall,Michigan,United States,13.45,27976.0,2331.33
+103,Ebru Ersan,Production Technician - WC10,M,S,12/6/2009,9/22/1986,Production,Manufacturing,Evening,1,00:00.0,Sammamish,Massachusetts,United States,13.45,27976.0,2331.33
+89,Patrick Wedge,Production Technician - WC10,M,S,2/1/2010,9/10/1986,Production,Manufacturing,Night,1,00:00.0,Bellevue,Oregon,United States,13.45,27976.0,2331.33
+49,Barry Johnson,Production Technician - WC10,M,S,1/7/2008,3/26/1956,Production,Manufacturing,Day,1,00:00.0,Snohomish,Minnesota,United States,13.45,27976.0,2331.33
+54,Bonnie Kearney,Production Technician - WC10,F,M,1/1/2010,9/10/1986,Production,Manufacturing,Day,1,00:00.0,Snohomish,Minnesota,United States,13.45,27976.0,2331.33
+104,Mary Baker,Production Technician - WC10,F,M,12/25/2009,9/19/1986,Production,Manufacturing,Evening,1,00:00.0,Seattle,Tennessee,United States,13.45,27976.0,2331.33
+48,Ruth Ellerbrock,Production Technician - WC10,F,M,1/6/2008,6/4/1956,Production,Manufacturing,Day,1,00:00.0,Everett,Oregon,United States,13.45,27976.0,2331.33
+107,Christopher Hill,Production Technician - WC10,M,M,2/8/2010,10/1/1986,Production,Manufacturing,Evening,1,00:00.0,Bothell,California,United States,13.45,27976.0,2331.33
+155,Fadi Fakhouri,Production Technician - WC20,M,S,1/4/2009,2/15/1989,Production,Manufacturing,Evening,1,00:00.0,Snohomish,Oregon,United States,14.0,29120.0,2426.67
+144,Paul Singh,Production Technician - WC20,M,M,1/17/2009,11/4/1990,Production,Manufacturing,Day,1,00:00.0,Bellevue,Tennessee,United States,14.0,29120.0,2426.67
+181,Michael Hines,Production Technician - WC20,M,S,12/9/2008,11/17/1984,Production,Manufacturing,Night,1,00:00.0,Monroe,Oregon,United States,14.0,29120.0,2426.67
+138,Samantha Smith,Production Technician - WC20,F,M,2/4/2009,11/22/1987,Production,Manufacturing,Day,1,00:00.0,Bellevue,Tennessee,United States,14.0,29120.0,2426.67
+158,Shelley Dyck,Production Technician - WC20,F,S,3/7/2009,12/8/1986,Production,Manufacturing,Evening,1,00:00.0,Monroe,Washington,United States,14.0,29120.0,2426.67
+135,Ivo Salmre,Production Technician - WC20,M,M,12/4/2008,1/3/1982,Production,Manufacturing,Day,1,00:00.0,Monroe,Utah,United States,14.0,29120.0,2426.67
+182,Nitin Mirchandani,Production Technician - WC20,M,S,12/28/2008,12/1/1986,Production,Manufacturing,Night,1,00:00.0,Sammamish,Utah,United States,14.0,29120.0,2426.67
+184,John Chen,Production Technician - WC20,M,M,2/9/2009,4/5/1986,Production,Manufacturing,Night,1,00:00.0,Duvall,California,United States,14.0,29120.0,2426.67
+156,Lane Sacksteder,Production Technician - WC20,M,M,1/11/2009,9/23/1974,Production,Manufacturing,Evening,1,00:00.0,Seattle,Washington,United States,14.0,29120.0,2426.67
+185,Stefen Hesse,Production Technician - WC20,M,S,2/28/2009,12/21/1975,Production,Manufacturing,Night,1,00:00.0,Duvall,California,United States,14.0,29120.0,2426.67
+136,Sylvester Valdez,Production Technician - WC20,M,M,12/11/2009,11/12/1970,Production,Manufacturing,Day,1,00:00.0,Bellevue,Massachusetts,United States,14.0,29120.0,2426.67
+157,Linda Randall,Production Technician - WC20,F,S,2/3/2009,10/5/1977,Production,Manufacturing,Evening,1,00:00.0,Seattle,Washington,United States,14.0,29120.0,2426.67
+183,Barbara Decker,Production Technician - WC20,F,M,1/22/2009,7/2/1979,Production,Manufacturing,Night,1,00:00.0,Sammamish,Minnesota,United States,14.0,29120.0,2426.67
+140,Prasanna Samarawickrama,Production Technician - WC20,M,M,1/22/2010,4/30/1953,Production,Manufacturing,Day,1,00:00.0,Redmond,Tennessee,United States,14.0,29120.0,2426.67
+154,Raymond Sam,Production Technician - WC20,M,M,12/23/2008,3/2/1967,Production,Manufacturing,Evening,1,00:00.0,Edmonds,Oregon,United States,14.0,29120.0,2426.67
+153,Hanying Feng,Production Technician - WC20,M,S,12/16/2008,10/16/1974,Production,Manufacturing,Evening,1,00:00.0,Redmond,Tennessee,United States,14.0,29120.0,2426.67
+141,Min Su,Production Technician - WC20,M,M,1/24/2010,9/10/1974,Production,Manufacturing,Day,1,00:00.0,Bellevue,Oregon,United States,14.0,29120.0,2426.67
+142,Olinda Turner,Production Technician - WC20,F,S,3/4/2010,4/4/1970,Production,Manufacturing,Day,1,00:00.0,Bellevue,Tennessee,United States,14.0,29120.0,2426.67
+137,Anibal Sousa,Production Technician - WC20,F,S,2/23/2009,9/5/1974,Production,Manufacturing,Day,1,00:00.0,Redmond,Tennessee,United States,14.0,29120.0,2426.67
+139,Hung-Fu Ting,Production Technician - WC20,M,S,1/6/2010,10/23/1971,Production,Manufacturing,Day,1,00:00.0,Sammamish,Michigan,United States,14.0,29120.0,2426.67
+159,Terrence Earls,Production Technician - WC20,M,S,2/16/2009,12/8/1984,Production,Manufacturing,Evening,1,00:00.0,Bellevue,Tennessee,United States,14.0,29120.0,2426.67
+143,Krishna Sunkammurali,Production Technician - WC20,M,S,2/13/2010,9/5/1971,Production,Manufacturing,Day,1,00:00.0,Edmonds,Washington,United States,14.0,29120.0,2426.67
+167,David Johnson,Production Technician - WC30,M,S,12/2/2008,11/2/1979,Production,Manufacturing,Day,1,00:00.0,Kenmore,California,United States,9.5,19760.0,1646.67
+76,Carol Philips,Production Technician - WC30,F,M,2/12/2009,10/17/1988,Production,Manufacturing,Night,1,00:00.0,Bothell,Minnesota,United States,9.5,19760.0,1646.67
+149,Andy Ruth,Production Technician - WC30,M,M,1/31/2009,10/20/1983,Production,Manufacturing,Evening,1,00:00.0,Bellevue,Michigan,United States,9.5,19760.0,1646.67
+77,Merav Netz,Production Technician - WC30,F,M,3/3/2009,5/13/1983,Production,Manufacturing,Night,1,00:00.0,Seattle,Utah,United States,9.5,19760.0,1646.67
+74,Bjorn Rettig,Production Technician - WC30,M,S,1/7/2009,11/6/1989,Production,Manufacturing,Night,1,00:00.0,Seattle,Michigan,United States,9.5,19760.0,1646.67
+148,Jason Watters,Production Technician - WC30,M,S,1/14/2009,12/7/1988,Production,Manufacturing,Evening,1,00:00.0,Bellevue,Tennessee,United States,9.5,19760.0,1646.67
+169,Susan Metters,Production Technician - WC30,F,S,12/14/2008,4/2/1983,Production,Manufacturing,Day,1,00:00.0,Sammamish,Tennessee,United States,9.5,19760.0,1646.67
+173,Eugene Zabokritski,Production Technician - WC30,M,S,1/21/2009,7/15/1987,Production,Manufacturing,Day,1,00:00.0,Sammamish,Oregon,United States,9.5,19760.0,1646.67
+146,Jian Shuo Wang,Production Technician - WC30,M,S,12/7/2008,6/25/1989,Production,Manufacturing,Evening,1,00:00.0,Monroe,Massachusetts,United States,9.5,19760.0,1646.67
+179,Jan Miksovsky,Production Technician - WC30,M,S,3/5/2009,11/15/1974,Production,Manufacturing,Day,1,00:00.0,Everett,California,United States,9.5,19760.0,1646.67
+73,Carole Poland,Production Technician - WC30,F,M,12/19/2008,10/19/1983,Production,Manufacturing,Night,1,00:00.0,Edmonds,Minnesota,United States,9.5,19760.0,1646.67
+151,Rostislav Shabalin,Production Technician - WC30,M,M,2/19/2009,9/13/1977,Production,Manufacturing,Evening,1,00:00.0,Bellevue,Tennessee,United States,9.5,19760.0,1646.67
+178,John Frum,Production Technician - WC30,M,S,3/3/2009,3/24/1982,Production,Manufacturing,Day,1,00:00.0,Everett,Washington,United States,9.5,19760.0,1646.67
+170,George Li,Production Technician - WC30,M,M,12/21/2008,4/16/1977,Production,Manufacturing,Day,1,00:00.0,Carnation,Tennessee,United States,9.5,19760.0,1646.67
+150,Michael Vanderhyde,Production Technician - WC30,M,M,2/26/2009,9/18/1982,Production,Manufacturing,Evening,1,00:00.0,Edmonds,California,United States,9.5,19760.0,1646.67
+174,Benjamin Martin,Production Technician - WC30,M,S,1/27/2009,1/5/1986,Production,Manufacturing,Day,1,00:00.0,Snohomish,Minnesota,United States,9.5,19760.0,1646.67
+177,Russell King,Production Technician - WC30,M,M,2/21/2009,2/11/1982,Production,Manufacturing,Day,1,00:00.0,Bellevue,Tennessee,United States,9.5,19760.0,1646.67
+171,David Yalovsky,Production Technician - WC30,M,S,1/2/2009,8/3/1981,Production,Manufacturing,Day,1,00:00.0,Seattle,California,United States,9.5,19760.0,1646.67
+176,David Lawrence,Production Technician - WC30,M,M,2/14/2009,9/23/1985,Production,Manufacturing,Day,1,00:00.0,Monroe,Tennessee,United States,9.5,19760.0,1646.67
+147,Sandra Reátegui Alayo,Production Technician - WC30,F,M,12/26/2008,11/5/1975,Production,Manufacturing,Evening,1,00:00.0,Seattle,Michigan,United States,9.5,19760.0,1646.67
+175,Reed Koch,Production Technician - WC30,M,M,2/2/2009,1/8/1989,Production,Manufacturing,Day,1,00:00.0,Redmond,Oregon,United States,9.5,19760.0,1646.67
+72,Steven Selikoff,Production Technician - WC30,M,M,12/1/2008,5/14/1977,Production,Manufacturing,Night,1,00:00.0,Everett,Michigan,United States,9.5,19760.0,1646.67
+75,Michiko Osada,Production Technician - WC30,M,S,1/26/2009,6/27/1982,Production,Manufacturing,Night,1,00:00.0,Sammamish,Michigan,United States,9.5,19760.0,1646.67
+168,Garrett Young,Production Technician - WC30,M,S,12/7/2008,8/25/1984,Production,Manufacturing,Day,1,00:00.0,Snohomish,Tennessee,United States,9.5,19760.0,1646.67
+172,Marc Ingle,Production Technician - WC30,M,M,1/16/2009,10/24/1986,Production,Manufacturing,Day,1,00:00.0,Sammamish,Oregon,United States,9.5,19760.0,1646.67
+81,Mihail Frintu,Production Technician - WC40,M,S,12/29/2009,3/9/1971,Production,Manufacturing,Evening,1,00:00.0,Edmonds,Oregon,United States,15.0,31200.0,2600.0
+199,Paula Nartker,Production Technician - WC40,F,M,1/12/2009,2/10/1987,Production,Manufacturing,Day,1,00:00.0,Seattle,Utah,United States,15.0,31200.0,2600.0
+198,Lorraine Nay,Production Technician - WC40,F,M,1/4/2009,11/26/1988,Production,Manufacturing,Day,1,00:00.0,Edmonds,Washington,United States,15.0,31200.0,2600.0
+133,Michael Rothkugel,Production Technician - WC40,M,S,1/10/2009,1/4/1991,Production,Manufacturing,Night,1,00:00.0,Edmonds,Massachusetts,United States,15.0,31200.0,2600.0
+203,Ken Myer,Production Technician - WC40,M,M,2/24/2009,5/28/1981,Production,Manufacturing,Day,1,00:00.0,Everett,Utah,United States,15.0,31200.0,2600.0
+204,Gabe Mares,Production Technician - WC40,M,M,3/8/2009,5/10/1988,Production,Manufacturing,Day,1,00:00.0,Edmonds,Utah,United States,15.0,31200.0,2600.0
+86,Ryan Cornelsen,Production Technician - WC40,M,M,1/5/2009,6/13/1972,Production,Manufacturing,Evening,1,00:00.0,Sammamish,Michigan,United States,15.0,31200.0,2600.0
+130,Rob Caron,Production Technician - WC40,M,S,2/13/2009,8/4/1973,Production,Manufacturing,Night,1,00:00.0,Monroe,California,United States,15.0,31200.0,2600.0
+79,Eric Brown,Production Technician - WC40,M,M,1/24/2010,12/8/1966,Production,Manufacturing,Evening,1,00:00.0,Duvall,Tennessee,United States,15.0,31200.0,2600.0
+131,Baris Cetinok,Production Technician - WC40,M,S,2/15/2009,10/7/1990,Production,Manufacturing,Night,1,00:00.0,Seattle,Massachusetts,United States,15.0,31200.0,2600.0
+80,Sandeep Kaliyath,Production Technician - WC40,M,S,1/17/2010,12/3/1970,Production,Manufacturing,Evening,1,00:00.0,Sammamish,Oregon,United States,15.0,31200.0,2600.0
+194,Fred Northup,Production Technician - WC40,M,S,12/12/2008,6/25/1989,Production,Manufacturing,Day,1,00:00.0,Snohomish,Oregon,United States,15.0,31200.0,2600.0
+132,Nicole Holliday,Production Technician - WC40,F,M,2/22/2009,4/9/1986,Production,Manufacturing,Night,1,00:00.0,Seattle,Washington,United States,15.0,31200.0,2600.0
+196,Shammi Mohamed,Production Technician - WC40,M,M,12/24/2008,10/4/1980,Production,Manufacturing,Day,1,00:00.0,Bellevue,Massachusetts,United States,15.0,31200.0,2600.0
+200,Frank Lee,Production Technician - WC40,M,M,1/17/2009,9/6/1987,Production,Manufacturing,Day,1,00:00.0,Seattle,Massachusetts,United States,15.0,31200.0,2600.0
+85,Brian Goldstein,Production Technician - WC40,M,S,12/11/2009,12/23/1970,Production,Manufacturing,Evening,1,00:00.0,Bothell,Minnesota,United States,15.0,31200.0,2600.0
+195,Kevin Liu,Production Technician - WC40,M,S,12/17/2008,12/25/1985,Production,Manufacturing,Day,1,00:00.0,Seattle,Washington,United States,15.0,31200.0,2600.0
+82,Jack Creasey,Production Technician - WC40,M,S,3/3/2010,8/29/1973,Production,Manufacturing,Evening,1,00:00.0,Seattle,Massachusetts,United States,15.0,31200.0,2600.0
+83,Patrick Cook,Production Technician - WC40,M,M,2/12/2010,12/23/1973,Production,Manufacturing,Evening,1,00:00.0,Seattle,Tennessee,United States,15.0,31200.0,2600.0
+129,Gary Yukish,Production Technician - WC40,M,S,12/22/2008,5/16/1988,Production,Manufacturing,Night,1,00:00.0,Edmonds,Tennessee,United States,15.0,31200.0,2600.0
+84,Frank Martinez,Production Technician - WC40,M,M,2/5/2010,3/2/1952,Production,Manufacturing,Evening,1,00:00.0,Snohomish,Utah,United States,15.0,31200.0,2600.0
+197,Rajesh Patel,Production Technician - WC40,M,M,12/31/2008,10/4/1977,Production,Manufacturing,Day,1,00:00.0,Edmonds,Minnesota,United States,15.0,31200.0,2600.0
+201,Brian Lloyd,Production Technician - WC40,M,S,1/29/2009,2/10/1977,Production,Manufacturing,Day,1,00:00.0,Snohomish,Washington,United States,15.0,31200.0,2600.0
+128,Paul Komosinski,Production Technician - WC40,M,S,12/4/2008,11/13/1980,Production,Manufacturing,Night,1,00:00.0,Bellevue,Washington,United States,15.0,31200.0,2600.0
+193,Alejandro McGuel,Production Technician - WC40,M,S,12/6/2008,12/5/1988,Production,Manufacturing,Day,1,00:00.0,Seattle,Washington,United States,15.0,31200.0,2600.0
+202,Tawana Nusbaum,Production Technician - WC40,M,S,2/5/2009,11/10/1989,Production,Manufacturing,Day,1,00:00.0,Seattle,Washington,United States,15.0,31200.0,2600.0
+208,Scott Gode,Production Technician - WC45,M,M,1/8/2009,2/10/1987,Production,Manufacturing,Night,1,00:00.0,Seattle,California,United States,10.0,20800.0,1733.33
+190,Robert Rounthwaite,Production Technician - WC45,M,S,2/2/2009,2/28/1985,Production,Manufacturing,Evening,1,00:00.0,Seattle,Utah,United States,10.0,20800.0,1733.33
+206,Stuart Munson,Production Technician - WC45,M,S,12/2/2008,9/13/1962,Production,Manufacturing,Night,1,00:00.0,Bellevue,Michigan,United States,10.0,20800.0,1733.33
+165,Chris Preston,Production Technician - WC45,M,M,1/22/2009,12/16/1988,Production,Manufacturing,Day,1,00:00.0,Seattle,Utah,United States,10.0,20800.0,1733.33
+207,Greg Alderson,Production Technician - WC45,M,S,12/2/2008,10/18/1970,Production,Manufacturing,Night,1,00:00.0,Bellevue,Minnesota,United States,10.0,20800.0,1733.33
+209,Kathie Flood,Production Technician - WC45,F,M,1/27/2009,11/1/1990,Production,Manufacturing,Night,1,00:00.0,Everett,Massachusetts,United States,10.0,20800.0,1733.33
+191,Lionel Penuchot,Production Technician - WC45,M,S,2/26/2009,3/14/1988,Production,Manufacturing,Evening,1,00:00.0,Seattle,Massachusetts,United States,10.0,20800.0,1733.33
+188,Douglas Hite,Production Technician - WC45,M,M,12/27/2008,11/24/1985,Production,Manufacturing,Evening,1,00:00.0,Carnation,Massachusetts,United States,10.0,20800.0,1733.33
+189,Janeth Esteves,Production Technician - WC45,F,S,1/15/2009,7/24/1972,Production,Manufacturing,Evening,1,00:00.0,Monroe,Utah,United States,10.0,20800.0,1733.33
+164,Andrew Cencini,Production Technician - WC45,M,S,3/6/2009,9/24/1988,Production,Manufacturing,Day,1,00:00.0,Sammamish,Utah,United States,10.0,20800.0,1733.33
+210,Belinda Newman,Production Technician - WC45,F,S,2/20/2009,9/17/1969,Production,Manufacturing,Night,1,00:00.0,Bothell,Michigan,United States,10.0,20800.0,1733.33
+163,Alex Nayberg,Production Technician - WC45,M,M,2/8/2009,4/13/1990,Production,Manufacturing,Day,1,00:00.0,Newport Hills,California,United States,10.0,20800.0,1733.33
+161,Kirk Koenigsbauer,Production Technician - WC45,M,S,12/15/2008,2/6/1985,Production,Manufacturing,Day,1,00:00.0,Seattle,California,United States,10.0,20800.0,1733.33
+162,Laura Steele,Production Technician - WC45,F,S,1/3/2009,12/25/1980,Production,Manufacturing,Day,1,00:00.0,Duvall,Utah,United States,10.0,20800.0,1733.33
+187,Yvonne McKay,Production Technician - WC45,F,M,12/9/2008,4/15/1989,Production,Manufacturing,Evening,1,00:00.0,Everett,Minnesota,United States,10.0,20800.0,1733.33
+116,Michael Patten,Production Technician - WC50,M,S,1/31/2009,5/3/1974,Production,Manufacturing,Day,1,00:00.0,Edmonds,Minnesota,United States,11.0,22880.0,1906.67
+119,Michael Entin,Production Technician - WC50,M,S,2/25/2009,6/15/1989,Production,Manufacturing,Day,1,00:00.0,Redmond,Minnesota,United States,11.0,22880.0,1906.67
+97,Mandar Samant,Production Technician - WC50,M,S,2/10/2009,3/21/1986,Production,Manufacturing,Evening,1,00:00.0,Duvall,Massachusetts,United States,11.0,22880.0,1906.67
+118,Don Hall,Production Technician - WC50,M,M,2/13/2009,6/13/1971,Production,Manufacturing,Day,1,00:00.0,Carnation,Minnesota,United States,11.0,22880.0,1906.67
+112,John Evans,Production Technician - WC50,M,S,1/1/2009,5/31/1978,Production,Manufacturing,Day,1,00:00.0,Seattle,Tennessee,United States,11.0,22880.0,1906.67
+95,Jim Scardelis,Production Technician - WC50,M,M,12/19/2008,9/8/1986,Production,Manufacturing,Evening,1,00:00.0,Edmonds,Minnesota,United States,11.0,22880.0,1906.67
+110,Jun Cao,Production Technician - WC50,M,S,12/14/2008,7/6/1979,Production,Manufacturing,Day,1,00:00.0,Redmond,Tennessee,United States,11.0,22880.0,1906.67
+99,Nuan Yu,Production Technician - WC50,M,S,1/6/2009,3/29/1979,Production,Manufacturing,Evening,1,00:00.0,Bellevue,Massachusetts,United States,11.0,22880.0,1906.67
+96,Elizabeth Keyser,Production Technician - WC50,F,M,3/2/2009,1/25/1990,Production,Manufacturing,Evening,1,00:00.0,Kent,Oregon,United States,11.0,22880.0,1906.67
+109,Alice Ciccu,Production Technician - WC50,F,M,12/7/2008,1/26/1978,Production,Manufacturing,Day,1,00:00.0,Snohomish,Michigan,United States,11.0,22880.0,1906.67
+111,Suroor Fatima,Production Technician - WC50,M,S,12/17/2008,2/25/1978,Production,Manufacturing,Day,1,00:00.0,Edmonds,Washington,United States,11.0,22880.0,1906.67
+113,Linda Moschell,Production Technician - WC50,F,M,12/25/2008,7/17/1987,Production,Manufacturing,Day,1,00:00.0,Bellevue,Minnesota,United States,11.0,22880.0,1906.67
+115,Angela Barbariol,Production Technician - WC50,F,S,1/20/2009,5/31/1991,Production,Manufacturing,Day,1,00:00.0,Edmonds,Minnesota,United States,11.0,22880.0,1906.67
+94,Russell Hunter,Production Technician - WC50,M,M,12/12/2008,11/25/1972,Production,Manufacturing,Evening,1,00:00.0,Seattle,Tennessee,United States,11.0,22880.0,1906.67
+61,Diane Tibbott,Production Technician - WC50,F,S,1/18/2009,8/9/1989,Production,Manufacturing,Night,1,00:00.0,Kenmore,Oregon,United States,11.0,22880.0,1906.67
+100,Lolan Song,Production Technician - WC50,M,M,1/12/2009,1/24/1973,Production,Manufacturing,Evening,1,00:00.0,Edmonds,Washington,United States,11.0,22880.0,1906.67
+114,Mindaugas Krapauskas,Production Technician - WC50,M,M,1/13/2009,5/7/1978,Production,Manufacturing,Day,1,00:00.0,Edmonds,Washington,United States,11.0,22880.0,1906.67
+101,Houman Pournasseh,Production Technician - WC50,M,M,1/25/2009,8/30/1971,Production,Manufacturing,Evening,1,00:00.0,Redmond,Washington,United States,11.0,22880.0,1906.67
+59,Bob Hohman,Production Technician - WC50,M,S,12/24/2008,8/16/1979,Production,Manufacturing,Night,1,00:00.0,Bothell,Massachusetts,United States,11.0,22880.0,1906.67
+58,Kendall Keil,Production Technician - WC50,M,M,12/5/2008,5/30/1986,Production,Manufacturing,Night,1,00:00.0,Seattle,Oregon,United States,11.0,22880.0,1906.67
+60,Pete Male,Production Technician - WC50,M,S,1/11/2009,2/3/1977,Production,Manufacturing,Night,1,00:00.0,Seattle,California,United States,11.0,22880.0,1906.67
+120,Kitti Lertpiriyasuwat,Production Technician - WC50,F,S,3/4/2009,6/6/1987,Production,Manufacturing,Day,1,00:00.0,Seattle,Michigan,United States,11.0,22880.0,1906.67
+98,Sameer Tejani,Production Technician - WC50,M,M,2/11/2009,6/26/1978,Production,Manufacturing,Evening,1,00:00.0,Duvall,Utah,United States,11.0,22880.0,1906.67
+56,Denise Smith,Production Technician - WC50,F,M,2/5/2009,7/6/1988,Production,Manufacturing,Night,1,00:00.0,Kenmore,Minnesota,United States,11.0,22880.0,1906.67
+117,Chad Niswonger,Production Technician - WC50,M,M,2/18/2009,8/4/1990,Production,Manufacturing,Day,1,00:00.0,Bothell,Michigan,United States,11.0,22880.0,1906.67
+57,Frank Miller,Production Technician - WC50,M,S,2/23/2009,7/24/1971,Production,Manufacturing,Night,1,00:00.0,Snohomish,Utah,United States,11.0,22880.0,1906.67
+68,Charles Fitzgerald,Production Technician - WC60,M,S,12/3/2009,9/2/1971,Production,Manufacturing,Evening,1,00:00.0,Sammamish,Massachusetts,United States,12.45,25896.0,2158.0
+34,Suchitra Mohan,Production Technician - WC60,F,M,2/16/2009,6/10/1987,Production,Manufacturing,Day,1,00:00.0,Bellevue,Washington,United States,12.45,25896.0,2158.0
+45,Thomas Michaels,Production Technician - WC60,M,M,2/26/2009,1/10/1986,Production,Manufacturing,Night,1,00:00.0,Edmonds,Washington,United States,12.45,25896.0,2158.0
+29,Mark McArthur,Production Technician - WC60,M,S,1/23/2009,9/25/1979,Production,Manufacturing,Day,1,00:00.0,Redmond,Tennessee,United States,12.45,25896.0,2158.0
+38,Kim Abercrombie,Production Technician - WC60,F,M,1/16/2010,12/14/1966,Production,Manufacturing,Day,1,00:00.0,Carnation,Oregon,United States,12.45,25896.0,2158.0
+70,David Ortiz,Production Technician - WC60,M,M,12/15/2008,12/29/1984,Production,Manufacturing,Evening,1,00:00.0,Seattle,Utah,United States,12.45,25896.0,2158.0
+67,Jay Adams,Production Technician - WC60,M,S,3/5/2009,2/11/1976,Production,Manufacturing,Evening,1,00:00.0,Monroe,Washington,United States,12.45,25896.0,2158.0
+35,Brandon Heidepriem,Production Technician - WC60,M,M,2/8/2009,1/10/1977,Production,Manufacturing,Day,1,00:00.0,Redmond,Massachusetts,United States,12.45,25896.0,2158.0
+37,Chris Okelberry,Production Technician - WC60,M,S,3/7/2009,8/7/1986,Production,Manufacturing,Day,1,00:00.0,Redmond,California,United States,12.45,25896.0,2158.0
+64,Michael Zwilling,Production Technician - WC60,M,S,2/23/2010,9/5/1973,Production,Manufacturing,Evening,1,00:00.0,Edmonds,Michigan,United States,12.45,25896.0,2158.0
+28,Guy Gilbert,Production Technician - WC60,M,M,6/30/2006,3/13/1988,Production,Manufacturing,Day,1,00:00.0,Monroe,Utah,United States,12.45,25896.0,2158.0
+43,Nancy Anderson,Production Technician - WC60,F,M,1/2/2009,11/19/1988,Production,Manufacturing,Night,1,00:00.0,Sammamish,Massachusetts,United States,12.45,25896.0,2158.0
+33,Annik Stahl,Production Technician - WC60,M,M,12/17/2008,12/26/1976,Production,Manufacturing,Day,1,00:00.0,Seattle,California,United States,12.45,25896.0,2158.0
+63,Maciej Dusza,Production Technician - WC60,M,S,1/29/2010,1/30/1955,Production,Manufacturing,Evening,1,00:00.0,Edmonds,Minnesota,United States,12.45,25896.0,2158.0
+65,Randy Reeves,Production Technician - WC60,M,M,2/23/2010,4/28/1970,Production,Manufacturing,Evening,1,00:00.0,Edmonds,Massachusetts,United States,12.45,25896.0,2158.0
+32,Rebecca Laszlo,Production Technician - WC60,F,M,12/29/2008,7/10/1977,Production,Manufacturing,Day,1,00:00.0,Bellevue,Massachusetts,United States,12.45,25896.0,2158.0
+44,Simon Rapier,Production Technician - WC60,M,S,12/8/2008,5/17/1990,Production,Manufacturing,Night,1,00:00.0,Duvall,Utah,United States,12.45,25896.0,2158.0
+42,James Kramer,Production Technician - WC60,M,M,12/27/2008,7/25/1984,Production,Manufacturing,Night,1,00:00.0,Monroe,Oregon,United States,12.45,25896.0,2158.0
+39,Ed Dudenhoefer,Production Technician - WC60,M,S,2/5/2010,9/11/1971,Production,Manufacturing,Day,1,00:00.0,Seattle,Washington,United States,12.45,25896.0,2158.0
+36,Jose Lugo,Production Technician - WC60,M,M,2/10/2009,7/31/1984,Production,Manufacturing,Day,1,00:00.0,Seattle,Massachusetts,United States,12.45,25896.0,2158.0
+69,Steve Masters,Production Technician - WC60,M,S,2/15/2009,4/6/1991,Production,Manufacturing,Evening,1,00:00.0,Seattle,Massachusetts,United States,12.45,25896.0,2158.0
+66,Karan Khanna,Production Technician - WC60,M,S,12/22/2009,3/7/1970,Production,Manufacturing,Evening,1,00:00.0,Seattle,California,United States,12.45,25896.0,2158.0
+41,Bryan Baker,Production Technician - WC60,M,S,1/21/2009,8/27/1973,Production,Manufacturing,Night,1,00:00.0,Monroe,Tennessee,United States,12.45,25896.0,2158.0
+30,Britta Simon,Production Technician - WC60,F,M,1/29/2009,9/28/1989,Production,Manufacturing,Day,1,00:00.0,Edmonds,Tennessee,United States,12.45,25896.0,2158.0
+31,Margie Shoop,Production Technician - WC60,F,M,1/4/2009,5/20/1986,Production,Manufacturing,Day,1,00:00.0,Edmonds,Tennessee,United States,12.45,25896.0,2158.0
+46,Eugene Kogan,Production Technician - WC60,M,S,2/8/2009,2/10/1976,Production,Manufacturing,Night,1,00:00.0,Duvall,Utah,United States,12.45,25896.0,2158.0
+25,James Hamilton,Vice President of Production,M,S,2/3/2009,1/7/1983,Production,Manufacturing,Day,2,00:00.0,Monroe,California,United States,84.1346,174999.97,6730.77
+222,A. Scott Wright,Master Scheduler,M,S,12/12/2008,9/17/1968,Production Control,Manufacturing,Day,2,00:00.0,Newport Hills,Minnesota,United States,23.5577,49000.02,1884.62
+26,Peter Krebs,Production Control Manager,M,M,12/1/2008,11/3/1982,Production Control,Manufacturing,Day,2,00:00.0,Bellevue,Michigan,United States,24.5192,50999.94,1961.54
+226,Brian LaMee,Scheduling Assistant,M,M,3/3/2009,8/11/1984,Production Control,Manufacturing,Night,2,00:00.0,Everett,Minnesota,United States,16.0,33280.0,1280.0
+225,Alan Brewer,Scheduling Assistant,M,M,2/13/2009,3/29/1984,Production Control,Manufacturing,Evening,2,00:00.0,Kenmore,Utah,United States,16.0,33280.0,1280.0
+223,Sairaj Uddin,Scheduling Assistant,M,M,1/26/2009,12/22/1987,Production Control,Manufacturing,Day,2,00:00.0,Redmond,Michigan,United States,16.0,33280.0,1280.0
+224,William Vong,Scheduling Assistant,M,M,1/7/2009,11/6/1981,Production Control,Manufacturing,Day,2,00:00.0,Bellevue,Washington,United States,16.0,33280.0,1280.0
+256,Frank Pellow,Buyer,M,M,1/23/2010,5/12/1952,Purchasing,Inventory Management,Day,2,00:00.0,Renton,Massachusetts,United States,18.2692,37999.94,1461.54
+253,Linda Meisner,Buyer,F,M,12/17/2009,11/30/1970,Purchasing,Inventory Management,Day,2,00:00.0,Bellevue,Tennessee,United States,18.2692,37999.94,1461.54
+254,Fukiko Ogisu,Buyer,M,M,1/4/2010,11/24/1970,Purchasing,Inventory Management,Day,2,00:00.0,Bellevue,Oregon,United States,18.2692,37999.94,1461.54
+251,Mikael Sandberg,Buyer,M,S,2/10/2009,8/17/1984,Purchasing,Inventory Management,Day,2,00:00.0,Bothell,Massachusetts,United States,18.2692,37999.94,1461.54
+252,Arvind Rao,Buyer,M,M,2/28/2009,8/21/1974,Purchasing,Inventory Management,Day,2,00:00.0,Renton,Minnesota,United States,18.2692,37999.94,1461.54
+259,Ben Miller,Buyer,M,M,3/9/2010,6/3/1973,Purchasing,Inventory Management,Day,2,00:00.0,Redmond,Michigan,United States,18.2692,37999.94,1461.54
+255,Gordon Hee,Buyer,M,M,1/11/2010,11/29/1966,Purchasing,Inventory Management,Day,2,00:00.0,Bellevue,Minnesota,United States,18.2692,37999.94,1461.54
+257,Eric Kurjan,Buyer,M,S,1/27/2010,9/17/1972,Purchasing,Inventory Management,Day,2,00:00.0,Renton,Tennessee,United States,18.2692,37999.94,1461.54
+258,Erin Hagens,Buyer,F,S,1/31/2010,1/4/1971,Purchasing,Inventory Management,Day,2,00:00.0,Bellevue,Michigan,United States,18.2692,37999.94,1461.54
+261,Reinout Hillmann,Purchasing Assistant,M,M,12/25/2010,1/17/1978,Purchasing,Inventory Management,Day,2,00:00.0,Bellevue,Michigan,United States,12.75,26520.0,1020.0
+260,Annette Hill,Purchasing Assistant,F,M,12/6/2010,1/29/1978,Purchasing,Inventory Management,Day,2,00:00.0,Redmond,Washington,United States,12.75,26520.0,1020.0
+250,Sheela Word,Purchasing Manager,F,S,2/25/2011,2/10/1978,Purchasing,Inventory Management,Day,2,00:00.0,Sammamish,Michigan,United States,30.0,62400.0,2400.0
+211,Hazem Abolrous,Quality Assurance Manager,M,S,2/28/2009,10/26/1977,Quality Assurance,Quality Assurance,Day,2,00:00.0,Kenmore,Washington,United States,28.8462,60000.1,2307.7
+212,Peng Wu,Quality Assurance Supervisor,M,M,12/9/2008,3/18/1976,Quality Assurance,Quality Assurance,Day,2,00:00.0,Bothell,Minnesota,United States,21.6346,44999.97,1730.77
+214,Andreas Berglund,Quality Assurance Technician,M,M,2/2/2009,3/28/1989,Quality Assurance,Quality Assurance,Evening,2,00:00.0,Renton,Utah,United States,10.5769,21999.95,846.15
+213,Sootha Charncherngkha,Quality Assurance Technician,M,M,2/23/2010,12/5/1966,Quality Assurance,Quality Assurance,Night,2,00:00.0,Kenmore,Michigan,United States,10.5769,21999.95,846.15
+215,Mark Harrington,Quality Assurance Technician,M,S,1/15/2009,4/30/1986,Quality Assurance,Quality Assurance,Day,2,00:00.0,Issaquah,Washington,United States,10.5769,21999.95,846.15
+216,Sean Alexander,Quality Assurance Technician,M,S,12/28/2008,3/6/1976,Quality Assurance,Quality Assurance,Day,2,00:00.0,Renton,Utah,United States,10.5769,21999.95,846.15
+9,Gigi Matthew,Research and Development Engineer,F,M,1/16/2009,1/21/1979,Research and Development,Research and Development,Day,2,00:00.0,Bellevue,Massachusetts,United States,40.8654,85000.03,3269.23
+8,Diane Margheim,Research and Development Engineer,F,S,12/29/2008,6/5/1986,Research and Development,Research and Development,Day,2,00:00.0,Everett,Massachusetts,United States,40.8654,85000.03,3269.23
+10,Michael Raheem,Research and Development Manager,M,M,5/3/2009,11/30/1984,Research and Development,Research and Development,Day,2,00:00.0,San Francisco,Tennessee,United States,42.4808,88360.06,3398.46
+7,Dylan Miller,Research and Development Manager,M,M,2/8/2009,2/24/1987,Research and Development,Research and Development,Day,2,00:00.0,Kenmore,Michigan,United States,50.4808,105000.06,4038.46
+287,Amy Alberts,European Sales Manager,F,M,4/16/2012,9/20/1957,Sales,Sales and Marketing,Day,2,00:00.0,Renton,Minnesota,United States,48.101,100050.08,3848.08
+274,Stephen Jiang,North American Sales Manager,M,M,1/4/2011,10/17/1951,Sales,Sales and Marketing,Day,2,00:00.0,Redmond,Minnesota,United States,48.101,100050.08,3848.08
+285,Syed Abbas,Pacific Sales Manager,M,M,3/14/2013,1/11/1975,Sales,Sales and Marketing,Day,2,00:00.0,Bothell,Minnesota,United States,48.101,100050.08,3848.08
+280,Pamela Ansman-Wolfe,Sales Representative,F,S,5/31/2011,12/6/1974,Sales,Sales and Marketing,Day,2,00:00.0,Portland,Massachusetts,United States,23.0769,47999.95,1846.15
+281,Shu Ito,Sales Representative,M,M,5/31/2011,3/9/1968,Sales,Sales and Marketing,Day,2,00:00.0,San Francisco,Oregon,United States,23.0769,47999.95,1846.15
+275,Michael Blythe,Sales Representative,M,S,5/31/2011,12/25/1968,Sales,Sales and Marketing,Day,2,00:00.0,Detroit,Utah,United States,23.0769,47999.95,1846.15
+279,Tsvi Reiter,Sales Representative,M,M,5/31/2011,1/18/1974,Sales,Sales and Marketing,Day,2,00:00.0,Memphis,Michigan,United States,23.0769,47999.95,1846.15
+277,Jillian Carson,Sales Representative,F,S,5/31/2011,8/29/1962,Sales,Sales and Marketing,Day,2,00:00.0,Duluth,Washington,United States,23.0769,47999.95,1846.15
+283,David Campbell,Sales Representative,M,S,5/31/2011,2/11/1974,Sales,Sales and Marketing,Day,2,00:00.0,Bellevue,Tennessee,United States,23.0769,47999.95,1846.15
+276,Linda Mitchell,Sales Representative,F,M,5/31/2011,2/27/1980,Sales,Sales and Marketing,Day,2,00:00.0,Nevada,Tennessee,United States,23.0769,47999.95,1846.15
+284,Tete Mensa-Annan,Sales Representative,M,M,9/30/2012,1/5/1978,Sales,Sales and Marketing,Day,2,00:00.0,Cambridge,Tennessee,United States,23.0769,47999.95,1846.15
+273,Brian Welcker,Vice President of Sales,M,S,2/15/2011,6/6/1977,Sales,Sales and Marketing,Day,2,00:00.0,Issaquah,Utah,United States,72.1154,150000.03,5769.23
+123,Vamsi Kuppa,Shipping and Receiving Clerk,M,M,12/7/2008,3/18/1977,Shipping and Receiving,Inventory Management,Evening,2,00:00.0,Bothell,Michigan,United States,9.5,19760.0,760.0
+125,Matthias Berndt,Shipping and Receiving Clerk,M,M,1/20/2009,11/11/1973,Shipping and Receiving,Inventory Management,Day,2,00:00.0,Renton,Washington,United States,9.5,19760.0,760.0
+121,Pilar Ackerman,Shipping and Receiving Supervisor,M,S,1/2/2009,9/9/1972,Shipping and Receiving,Inventory Management,Day,2,00:00.0,Seattle,Washington,United States,19.2308,40000.06,1538.46
+122,Susan Eaton,Stocker,F,S,12/7/2008,2/17/1978,Shipping and Receiving,Inventory Management,Evening,1,00:00.0,Renton,Oregon,United States,9.0,18720.0,1560.0
+126,Jimmy Bischoff,Stocker,M,M,2/26/2009,5/4/1985,Shipping and Receiving,Inventory Management,Day,1,00:00.0,Renton,Tennessee,United States,9.0,18720.0,1560.0
+124,Kim Ralls,Stocker,F,S,12/26/2008,4/30/1984,Shipping and Receiving,Inventory Management,Night,1,00:00.0,Bothell,Tennessee,United States,9.0,18720.0,1560.0
+4,Rob Walters,Senior Tool Designer,M,S,12/5/2007,12/23/1974,Tool Design,Research and Development,Day,2,00:00.0,Minneapolis,Utah,United States,29.8462,62080.1,2387.7
+11,Ovidiu Cracium,Senior Tool Designer,M,S,12/5/2010,1/17/1978,Tool Design,Research and Development,Day,2,00:00.0,Kenmore,Oregon,United States,28.8462,60000.1,2307.7
+12,Thierry D'Hers,Tool Designer,M,M,12/11/2007,7/29/1959,Tool Design,Research and Development,Day,2,00:00.0,Bothell,Utah,United States,25.0,52000.0,2000.0
+13,Janice Galvin,Tool Designer,F,M,12/23/2010,5/28/1989,Tool Design,Research and Development,Day,2,00:00.0,Redmond,Michigan,United States,25.0,52000.0,2000.0
