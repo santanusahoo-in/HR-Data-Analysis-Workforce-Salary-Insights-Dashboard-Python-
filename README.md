@@ -24,6 +24,21 @@ How can HR data be analyzed to identify patterns in salaries, gender representat
 
 ---
 
+**📁 File:** [`hr_data_analysis.ipynb`](hr_data_analysis.ipynb)  
+**🧮 Tools & Libraries Used:** Python:
+```Py
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+datetime
+os
+```
+**👨‍💻 Developer:** [Santanu Sahoo]
+
+---
+
 ## 🧩 Data Overview
 The dataset contains employee details such as:
 - **Employee ID, Name, Gender, Department**
@@ -50,18 +65,20 @@ The dataset contains employee details such as:
 
 ---
 
-**📁 File:** [`hr_data_analysis.ipynb`](hr_data_analysis.ipynb)  
-**🧮 Tools & Libraries Used:** Python:
-```Py
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-datetime
-os
-```
-**👨‍💻 Developer:** [Santanu Sahoo]
+## 📈 Overview of Key Metrics
+
+| Metric | Description | Value |
+|:-------|:-------------|------:|
+| **Total Salary** | Overall sum of all employee annual salaries | **$10,683,158** |
+| **Average Salary** | Average salary across all employees | **$37,902** |
+| **Total Employees** | Number of unique employees in the dataset | **282** |
+| **States Covered** | Total number of U.S. states represented | **28** |
+| **Highest Paying State** | State with maximum total salary | **California ($1,345,678)** |
+| **Lowest Paying State** | State with minimum total salary | **Maine ($112,490)** |
+| **Total Salary (Male)** | Combined salaries of male employees | **$7,467,474 (69.9%)** |
+| **Total Salary (Female)** | Combined salaries of female employees | **$3,215,684 (30.1%)** |
+| **Average Salary (Male)** | Average salary among male employees | **$36,786** |
+| **Average Salary (Female)** | Average salary among female employees | **$39,700** |
 
 ---
 
