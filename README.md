@@ -69,7 +69,16 @@ The dataset contains employee details such as:
 
 ---
 
-### 3️⃣ Average Annual Salary Trend Across Years
+### 6️3️⃣ Gender-Based Salary Distribution
+![Total and Average Salary by Gender](Image/salary_by_gender_combined.png)
+
+- **Total Salary Share:** Males earn **~70% ($7.47M)** of the total salary pool, while females account for **~30% ($3.21M)**.  
+- **Average Salary:** Interestingly, female employees have a slightly **higher average salary ($39,700)** compared to males ($36,786)**.  
+- This suggests that while female representation in the dataset is smaller, their pay per employee is competitive — indicating fewer but higher-paid roles.  
+- However, the imbalance in total salary share highlights potential **gender representation gaps** in overall workforce distribution.
+
+---
+### 4️⃣ Average Annual Salary Trend Across Years
 ![Average Annual Salary Trend Across Years](Image/salary_trend_hireyear.png)
 
 - Clear upward trajectory post-2010, peaking at **$100,050** by 2013.  
@@ -77,7 +86,7 @@ The dataset contains employee details such as:
 
 ---
 
-### 4️⃣ Salary vs. Age Relationship
+### 5️⃣ Salary vs. Age Relationship
 ![Salary vs Age](Image/salary_vs_age.png)
 
 - Positive but **weak correlation** between age and salary.  
@@ -85,7 +94,7 @@ The dataset contains employee details such as:
 
 ---
 
-### 5️⃣ Workforce & Salary Distribution by State × Department
+### 6️⃣ Workforce & Salary Distribution by State × Department
 ![State × Department Workforce & Salaries Heatmap](Image/state_department_salary_heatmap.png)
 
 - Production and Information Services dominate headcount and salary share across all states.  
