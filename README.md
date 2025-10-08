@@ -1,4 +1,4 @@
-# HR Data Analysis: Workforce & Salary Insights Dashboard
+# HR Data Analysis: Workforce & Salary Insights
 
 ## 📊 Project Summary
 This project focuses on analyzing HR data to uncover actionable insights about the workforce — including employee distribution, departmental performance, salary trends, and demographic diversity.  
